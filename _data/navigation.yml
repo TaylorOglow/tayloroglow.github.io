@@ -6,7 +6,7 @@ main:
     url: /scholarship/
   - title: "Support" 
     url: /support/
-  - title: "Sitemap" 
-    url: /sitemap/
   - title: "About"
     url: /about/
+  # - title: "Sitemap" 
+  #   url: /sitemap/
