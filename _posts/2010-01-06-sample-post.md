@@ -1,5 +1,5 @@
 ---
-title: "Sample Post 1"
+title: "Sample Brooke Post"
 excerpt_separator: "<!--more-->"
 categories:
   - Post Formats

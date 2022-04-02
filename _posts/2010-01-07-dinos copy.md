@@ -1,5 +1,5 @@
 ---
-title: "Sample Post 2"
+title: "Sample Jacob Post"
 excerpt_separator: "<!--more-->"
 categories:
   - Post Formats
