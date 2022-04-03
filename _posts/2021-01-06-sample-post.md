@@ -1,6 +1,7 @@
 ---
-title: "Sample Jacob Post"
+title: "Sample Brooke Post"
 excerpt_separator: "<!--more-->"
+author: Brooke Aikins
 categories:
   - Post Formats
 tags:

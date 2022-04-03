@@ -1,6 +1,7 @@
 ---
-title: "Sample Brooke Post"
+title: "Sample Jacob Post"
 excerpt_separator: "<!--more-->"
+author: Jacob Bourne
 categories:
   - Post Formats
 tags:

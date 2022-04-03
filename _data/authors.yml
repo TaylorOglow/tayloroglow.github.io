@@ -1,8 +1,8 @@
 # /_data/authors.yml
 
-Taylor Oglow:
+Brooke Aikins:
   name        : "Brooke Aikins"
-  bio         : "What do you want, jewels? I am a very extravagant woman."
+  bio         : "Brooke Aikins is a student of CENS 202."
   avatar      : "/assets/images/bio-photo-2.jpg"
   links:
     - label: "Email"
@@ -17,7 +17,7 @@ Taylor Oglow:
 
 Jacob Bourne:
   name        : "Jacob Bourne"
-  bio         : "I ordered what?"
+  bio         : "Jacob Bourne is a CENS 202 Student."
   avatar      : "/assets/images/bio-photo.jpg"
   links:
     - label: "Email"
