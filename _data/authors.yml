@@ -3,7 +3,7 @@
 Brooke Aikins:
   name        : "Brooke Aikins"
   bio         : "Brooke Aikins is a student of CENS 202."
-  avatar      : "/assets/images/bio-photo-2.jpg"
+  avatar      : "/assets/minnie.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -18,7 +18,7 @@ Brooke Aikins:
 Jacob Bourne:
   name        : "Jacob Bourne"
   bio         : "Jacob Bourne is a CENS 202 Student."
-  avatar      : "/assets/images/bio-photo.jpg"
+  avatar      : "/assets/einstein.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

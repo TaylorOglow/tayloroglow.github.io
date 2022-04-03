@@ -103,10 +103,11 @@ analytics:
 # Site Author
 author:
   name             : "Taylor Oglow"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/cookie.jpg"
   bio              : "Welcome to our site Jacob and Brooke!"
   location         : "Vancouver, British Columbia"
-  email            : tayloroglow@gmail.com
+  email            : "tayloroglow@gmail.com"
+  github           : "https://github.com/TaylorOglow"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -285,6 +286,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments:  true
       share: true
       related: true
