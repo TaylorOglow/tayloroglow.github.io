@@ -1,5 +1,7 @@
 ---
 title: "What Reconciliation Means to Us"
+header:
+  teaser: /assets/writing.jpeg
 excerpt_separator: "<!--more-->"
 author: Jacob Bourne
 categories:
