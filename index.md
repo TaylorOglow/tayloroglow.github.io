@@ -8,16 +8,16 @@ header:
     - label: "Learn More"
       url: "/about/"
   caption: "Photo credit: [**Forest**](https://unsplash.com)"
-excerpt: "As part of a University class, this site is dedicated to the process of reconciliation, as outlined in the Canadian Governmemnt's etc. etc."
+excerpt: "As part of a University class, this site is dedicated to the process of reconciliation, as outlined in the Canadian Governmemnt's formal declaration."
 intro: 
   - excerpt: 'hgjsnakfdsvjahbdfjnvsanbhjnvbhdfjnsalbhdnsbfhvknslfvlmasfjnavlmnjljnb"`'
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - image_path: assets/cookie.jpeg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 1"
     title: "Placeholder 1"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/einstein/jpg
     alt: "placeholder image 2"
     title: "Placeholder 2"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
@@ -28,7 +28,7 @@ feature_row:
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/global.png
     alt: "placeholder image 2"
     title: "Placeholder Image Left Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
@@ -52,4 +52,4 @@ feature_row4:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
-**So,what is Reconciliation anyway?**
+**What is Reconciliation?**
