@@ -1,5 +1,6 @@
 ---
 layout: archive
+permalink: /support/
 title: Support
 description: What can we do?
 ---

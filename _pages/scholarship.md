@@ -1,5 +1,6 @@
 ---
 layout: archive
+permalink: /scholarship/
 title: Scholarship
 description: New Indigenous Scholarship 
 ---

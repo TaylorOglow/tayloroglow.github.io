@@ -1,5 +1,6 @@
 ---
 layout: collection
+permalink: /news/
 title: News
 permalink: /news/ 
 collection: portfolio

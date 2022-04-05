@@ -1,5 +1,6 @@
 ---
 layout: splash
+permalink: /
 header:
   overlay_image: /assets/forest.jpeg
   overlay_color: "#000"

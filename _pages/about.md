@@ -1,5 +1,6 @@
 ---
 layout: single
+permalink: /about/
 title: About Us
 description: Why we set up this site
 classes: wide
