@@ -151,18 +151,43 @@ footer:
       # url:
 
 collections: 
-  portfolio:
+  news:
     output: true
-    permalink: /news/
+    permalink: /:collection/:path/
+  scholarship:
+    output: true
+    permalink: /:collection/:path/
+  support:
+    output: true
+    permalink: /:collection/:path/
 defaults:
-  # _portfolio
+  # _news
   - scope:
       path: ""
-      type: portfolio
+      type: news
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       share: true
+      comments: true
+  # _scholarship
+  - scope:
+      path: ""
+      type: scholarshop
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _support
+  - scope:
+      path: ""
+      type: support
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
 # Reading Files
 include:

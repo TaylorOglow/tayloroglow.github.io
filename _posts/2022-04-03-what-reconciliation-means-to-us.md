@@ -5,7 +5,7 @@ header:
 excerpt_separator: "<!--more-->"
 author: Jacob Bourne
 categories:
-  - Post Formats
+  - blog
 tags:
   - Statements
   - Blog

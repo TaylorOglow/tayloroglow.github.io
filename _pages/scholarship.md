@@ -1,9 +1,10 @@
 ---
-layout: archive
-permalink: /scholarship/
+layout: collection
 title: Scholarship
+permalink: /scholarship/
+collection: scholarship
+entries_layout: list
+classes: wide
 description: New Indigenous Scholarship 
 ---
-
-Here will be an archive of indigenous scholarship. 
 

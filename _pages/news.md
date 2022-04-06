@@ -2,11 +2,9 @@
 layout: collection
 title: News
 permalink: /news/ 
-collection: portfolio
+collection: news
 entries_layout: grid
 classes: wide
 description: What's happening in the Indigenous World?
 ---
-
-Here will be a newsfeed of Indigenous news. 
 
