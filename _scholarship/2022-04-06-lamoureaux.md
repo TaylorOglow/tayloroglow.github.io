@@ -1,5 +1,5 @@
 ---
-title: "Ted Talks"
+title: "Kevin Lamoureux"
 layout: splash
 permalink: /Lamoureux/
 date: 2022-03-23T11:48:41-04:00
