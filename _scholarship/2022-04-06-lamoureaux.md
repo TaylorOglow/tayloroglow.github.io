@@ -10,7 +10,7 @@ header:
   overlay_image: /assets/ted.jpeg
   actions:
     - label: "About Kevin"
-      url: "https://kevinlamoureux.liberal.ca/biography/"
+      url: "https://www.edcan.ca/experts/kevin-lamoureux/"
   caption: "Photo credit: [**TED**](https://www.ted.com/talks)"
 excerpt: '"Truth and Reconciliation"'
 intro: 
