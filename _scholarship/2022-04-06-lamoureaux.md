@@ -14,7 +14,7 @@ header:
   caption: "Photo credit: [**TED**](https://www.ted.com/talks)"
 excerpt: '"Truth and Reconciliation"'
 intro: 
-  - excerpt: "Lamoureux is committed to reconciliation and contributing to an even better Canada for all children to grow up in.  Kevin is the Associate Vice-President Of Indigenous Affairs at the University of Winnipeg." 
+  - excerpt: "This is a link to a Ted Talk about truth and reconciliation and what it looks like. Kevin Lamoureaux talks about the importance of Indigenous children embracing and keeping in contact with their Indigenous Identities. Lamoureaux speaks about his experience of struggling with his Indigenous identity and the anger that comes along with it. He talks about the anxiety he felt to belong and to have his peers and community members accept him. He discusses that Indigenous histories being more visible today are the result of the brave residential school survivors, Truth and Reconciliation is a gift to Canada to heal." 
 ---
 {% include youtubePlayer.html id=page.youtubeId %}
 
