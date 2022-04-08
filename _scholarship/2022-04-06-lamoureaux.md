@@ -20,5 +20,3 @@ intro:
 {% include youtubePlayer.html id=page.youtubeId %}
 
 {% include feature_row id="intro" type="center" %}
-
-{% include feature_row %}

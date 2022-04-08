@@ -2,7 +2,7 @@
 
 Brooke Aikins:
   name        : "Brooke Aikins"
-  bio         : "Brooke Aikins is a student of CENS 202."
+  bio         : "Brooke Aikins is a settler-student at the University of British Columbia. She seeks to bring awareness of Global Indigeneity into her studies."
   avatar      : "/assets/place.jpg"
   links:
     - label: "Email"
@@ -17,7 +17,7 @@ Brooke Aikins:
 
 Jacob Bourne:
   name        : "Jacob Bourne"
-  bio         : "Jacob Bourne is a CENS 202 Student."
+  bio         : "Jacob Bourne  is a settler-student at the University of British Columbia. He seeks to bring awareness of Global Indigeneity into his studies."
   avatar      : "/assets/place.jpg"
   links:
     - label: "Email"

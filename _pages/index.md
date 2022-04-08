@@ -9,7 +9,7 @@ header:
     - label: "Learn More"
       url: "/about/"
   caption: "Photo credit: [**Forest**](https://unsplash.com)"
-excerpt: "As part of a University class, this site is dedicated to the process of reconciliation, as outlined in the Canadian Governmemnt's formal declaration."
+excerpt: "As part of a University class, this site is dedicated to the process of reconciliation, as outlined in the Canadian Government's formal declaration."
 intro: 
   - excerpt: 'hgjsnakfdsvjahbdfjnvsanbhjnvbhdfjnsalbhdnsbfhvknslfvlmasfjnavlmnjljnb"`'
 feature_row:
