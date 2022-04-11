@@ -1,5 +1,5 @@
 ---
-title: "NCTR"
+title: "Center for Truth and Reconciliation"
 layout: splash
 permalink: /nctr/
 date: 2022-03-23T11:48:41-04:00
@@ -11,7 +11,7 @@ header:
     - label: "Learn More"
       url: "https://nctr.ca/"
   caption: "Photo credit: [**NCTR**](https://nctr.ca/)"
-excerpt: "For Truth and Reconciliation"
+excerpt: "Center for Truth and Reconciliation"
 intro: 
   - excerpt: "This is the website for the National Center for Truth and Reconciliation (NCTR), this website provides a space to learn about experiences of residential schools."
 feature_row:
