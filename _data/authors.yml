@@ -18,7 +18,7 @@ Brooke Aikins:
 Jacob Bourne:
   name        : "Jacob Bourne"
   bio         : "Jacob Bourne  is a settler-student at the University of British Columbia. He seeks to bring awareness of Global Indigeneity into his studies."
-  avatar      : "/assets/place.jpg"
+  avatar      : "/assets/jacob.jpeg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
