@@ -5,6 +5,6 @@ header:
   teaser: /assets/sixties.jpeg
 ---
 
-The Sixties Scoop Network is 
+Named after the so-called "Sixties Scoop" that saw mass removal of Indigenous children from their homes, Sixties Scoop Network is formed from a group of "Indigenous child welfare survivors" from Ottawa, Ontario. The Sixties scoop network seeks to educate, and reconcile, for Indigenous child removal policies.  
 
-https://sixtiesscoopnetwork.org/
+*To learn more please visit their website [here](https://sixtiesscoopnetwork.org/).*
