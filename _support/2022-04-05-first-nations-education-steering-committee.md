@@ -1,0 +1,10 @@
+---
+title: Firts Nations Education Steering Committee
+layout: single
+header:
+  teaser: /assets/fnesc.jpeg
+---
+The First Nations Education Steering Committee (FNESC) is an Indigenous led organization which was founded in 1992 in Vancouver. The group works to reform elementary and highschool curriculum for indigenous learners and the content students learn in B.C. about Indigenous peoples. It is very encouraging seeing a group such as FNESC take ownership of the narrative for future generations to learn.
+
+*To learn more please visit their website [here](http://www.fnesc.ca/irsr/).*
+
