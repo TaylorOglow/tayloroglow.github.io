@@ -55,5 +55,4 @@ feature_row4:
     btn_class: "btn--primary"
 ---
 **What is Reconciliation?**
-
-{% include youtubePlayer.html id=page.youtubeId %}
+<iframe width="420" height="200" src="http://www.youtube.com/embed/2zuRQmwaREY" frameborder="0" allowfullscreen></iframe>
