@@ -12,7 +12,7 @@ tags:
 
 This blog post features a list of Indigenous owned restaraunts.
 
-We at Indigenous World have made it our goal to highlight local Indigenous businessmen and businesswomen. Here, we have curated a list from [Indigenous Cuisine Canada's Website](indigenouscuisine.ca) that are Indigenous owned and operated and authentic to the local area. We encourage you to visit the site for more information, and if located near Vancouver BC to support the nearby Thunderbird Café in Squamish or one of the other British Columbian resteraunts if you find yourself on a trip!
+We at Indigenous World have made it our goal to highlight local Indigenous businessmen and businesswomen. Here, we have curated a list from [Indigenous Cuisine Canada's Website](indigenouscuisine.ca) that are Indigenous owned and operated and authentic to the local area. We encourage you to visit the site for more information, and if located near Vancouver BC to support the nearby Thunderbird Café in Squamish or one of the other British Columbian restaraunts if you find yourself on a trip!
 
 ## The Restaraunts
 

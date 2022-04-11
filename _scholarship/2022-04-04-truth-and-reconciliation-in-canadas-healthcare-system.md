@@ -10,7 +10,6 @@ header:
   actions:
     - label: "About Dr. Richardson"
       url: "https://md.utoronto.ca/news/spotlight-dr-lisa-richardson-co-lead-indigenous-medical-education"
-  caption: "Photo credit: [**here**](https://www.saskatchewan.ca/)"
 excerpt: "Dr. Lisa Richardson and Dr. Andrew Boozary"
 intro: 
   - excerpt: "Richardson, Lisa, and Andrew Booozary. “Truth and Reconciliation in Canada's Health System.” The Lancet , vol. 398, no. 10303, 10 Sept. 2021, pp. 825–826. 
@@ -20,6 +19,6 @@ intro:
 
 
 ---
-*To view the full article, click [update](https://doi.org/10.1080/03626784.2020.1715205).*
+*To view the full article, click [here](https://doi.org/10.1016/s0140-6736(21)01953-x).*
 
 {% include feature_row id="intro" type="center" %}
