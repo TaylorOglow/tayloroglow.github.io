@@ -18,6 +18,6 @@ intro:
 ---
 *To view the full article, click [here](https://www-deslibris-ca.eu1.proxy.openathens.net/ID/10050898).*
 
-*Note: Only accessible with a UBC CWL.* 
+*Note: Only accessible with a University Login.* 
 
 {% include feature_row id="intro" type="center" %}
