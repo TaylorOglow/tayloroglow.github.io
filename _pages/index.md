@@ -1,6 +1,7 @@
 ---
 layout: splash
 permalink: /
+youtubeId: 2zuRQmwaREY
 header:
   overlay_image: /assets/forest.jpeg
   overlay_color: "#000"
@@ -54,3 +55,5 @@ feature_row4:
     btn_class: "btn--primary"
 ---
 **What is Reconciliation?**
+
+{% include youtubePlayer.html id=page.youtubeId %}
