@@ -1,7 +1,7 @@
 ---
 title: Lesley Hampton
 layout: single
-youtubeID: RgPJDKr0ZRg
+youtubeId: RgPJDKr0ZRg
 header:
   teaser: /assets/lesley.webp
 ---
