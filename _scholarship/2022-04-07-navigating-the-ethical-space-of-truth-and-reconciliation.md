@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Ethical Space of Truth and Reconciliation"
 layout: splash
-permalink: /curriculum/
+permalink: /navigating-the-ethical-space-of-truth-and-reconciliation/
 date: 2022-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
