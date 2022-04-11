@@ -1,5 +1,5 @@
 ---
-title: "Ravens Children IV - Aboroginal Youth Health in BC"
+title: "Ravens Children IV - Aboriginal Youth Health in BC"
 layout: splash
 permalink: /ravens-children-iv-aboriginal-youth-health-in-bc/
 date: 2022-03-23T11:48:41-04:00
